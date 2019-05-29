@@ -29,7 +29,7 @@ Plug 'vim-airline/vim-airline-themes'
 
 Plug 'scrooloose/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
-
+Plug 'airblade/vim-gitgutter'
 
 call plug#end()
 " Required:
